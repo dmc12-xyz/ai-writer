@@ -12,8 +12,7 @@
 
 -----------------
 
-The tool generates short story based on keywords and phrases provided as 
-an input. The response is generated using the OpenAI Apis.
+The tool generates short story based on keywords and phrases provided in the input.
 
 ### Details
 
