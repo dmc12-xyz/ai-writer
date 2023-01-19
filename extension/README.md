@@ -1,7 +1,17 @@
-## AI Writer Extension
+<div align="center">
+    <h2><samp>AI Writer</samp></h2>
+    <samp>Open AI API Implementation</samp>
+    <br/><br/>
+    <a href="https://github.com/dmc12-xyz/ai-writer/releases/download/v1.0/extension.crx" title="download">
+      <samp>Download the Extension</samp>
+    </a>
+</div>
+
+
+------------
 
 Extension allows injecting api responses into the current 
-text-field. Currently, works only one [Calmly](https://www.calmlywriter.com/online/)
+text-field. Currently, works only on [Calmly](https://www.calmlywriter.com/online/)
 
 ### Installation
 
