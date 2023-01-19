@@ -1,4 +1,14 @@
-## AI Writer
+<div align="center">
+    <h2><samp>AI Writer</samp></h2>
+    <samp>short story generator</samp>
+    <br/><br/>
+    <a href="https://github.com/dmc12-xyz/ai-writer/tree/main/extension" title="download">
+      <samp>Get the Extension</samp>
+    </a>
+</div>
+
+-----------------
+
 The tool generates short story based on keywords and phrases provided as 
 an input. The response is generated using the OpenAI Apis.
 
