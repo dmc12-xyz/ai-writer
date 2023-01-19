@@ -10,10 +10,8 @@ const Home = () => {
 
   const callGenerateEndpoint = async () => {
     if(userInput.trim().length === 0) return;
-    
     setIsGenerating(true);
 
-    console.log("Calling open ai...");
     const response = await fetch('../api/generate', {
       method: 'POST',
       headers: {
@@ -23,9 +21,7 @@ const Home = () => {
     });
 
     const data = await response.json();
-    console.log(data);
     const { output } = data;
-    console.log("OpenAI replied...", output.text)
 
     setApiOutput(`${output.text}`);
     setIsGenerating(false);
