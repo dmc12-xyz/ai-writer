@@ -4,6 +4,9 @@
     <br/><br/>
     <a href="https://github.com/dmc12-xyz/ai-writer/tree/main/extension" title="download">
       <samp>Get the Extension</samp>
+    </a>|
+     <a href="https://ai-writer-production.up.railway.app/" title="test">
+      <samp>Test it out</samp>
     </a>
 </div>
 
